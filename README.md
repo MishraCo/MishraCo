@@ -20,18 +20,14 @@ I am a Machine Learning enthusiast currently pursuing a Master’s in Data Scien
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Ts9_g3JmXdXylzkd97jYjyagxjUB2UTU/view)
 - 📚 &nbsp; When I am free, I read non-fiction and self-help books.
 
-<br>
-
 ### 🔨 Languages and Tools:
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="assets\python-svgrepo-com.svg"></a>
+<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" align="left" alt="git" height='42px'/> </a> 
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" align="left" alt="git" height='42px'/> </a>
-
 
 <br>
-
 
 ### 📊 Github Stats
 <a href='https://github.com/MishraCo/MishraCo'>
@@ -39,8 +35,6 @@ I am a Machine Learning enthusiast currently pursuing a Master’s in Data Scien
 </a>
 <a href="https://github.com/MishraCo/MishraCo">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MishraCo&layout=compact&langs_count=8&card_width=320" />
-</a>
-
 </a>
 
 <br>
