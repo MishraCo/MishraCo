@@ -41,5 +41,5 @@ I am a Machine Learning enthusiast currently pursuing a Master’s in Data Scien
   <img height=200 width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=ShwetaM09&show_icons=true&hide=stars&theme=radical" />
 </a>
 <a href="https://github.com/MishraCo/MishraCo">
-  <img height=200 width="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishraCo&layout=compact&theme=radical" />
+  <img height=200 width="280" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishraCo&layout=compact&theme=radical" />
 </a>
