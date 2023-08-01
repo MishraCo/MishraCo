@@ -5,7 +5,6 @@
 
 I am a Machine Learning enthusiast currently pursuing a Master’s in Data Science 🌐 at Northeastern University in Boston, MA💻. A few things that define me are curiosity, quick grasp of concepts, a drive for results through data🤖, and a passion for projects 🎨that I dedicate myself to, always seeking patterns 📱 and employing robust problem-solving skills for business use cases across various industries 🛠️.
 
-<br/>
 
 <img align="right" alt="GIF" src="techstack.gif" width="360px"/>
   
@@ -37,7 +36,7 @@ I am a Machine Learning enthusiast currently pursuing a Master’s in Data Scien
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+[![Shweta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShwetaM09&show_icons=true&hide=stars&theme=radical)]
 ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
 </a>
