@@ -28,9 +28,10 @@ I am a Machine Learning enthusiast currently pursuing a Master’s in Data Scien
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"></a>
 
 <br>
+<br>
 
 ### 📊 Github Stats
 <a href='https://github.com/MishraCo/MishraCo'><img src="https://github-readme-stats.vercel.app/api?username=ShwetaM09&show_icons=true&hide=stars&theme=radical" height=200 width='400' align='center'/></a>
-<a href="https://github.com/MishraCo/MishraCo"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MishraCo&layout=compact&langs_count=8&card_width=320" height=200 align='center'/></a>
+<a href="https://github.com/MishraCo/MishraCo"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MishraCo&layout=compact&langs_count=8&card_width=320" height=200 align='center' width='400'/></a>
 
 <br>
