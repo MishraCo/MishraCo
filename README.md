@@ -38,11 +38,10 @@ I am a Machine Learning enthusiast currently pursuing a Master’s in Data Scien
 
 <p align = "center">
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MishraCo&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats for Ritvi" width="700">
 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MishraCo&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats for Ritvi" width="700">
+<img src="https://github-readme-stats.vercel.app/api?username=ShwetaM09&show_icons=true&hide=stars&theme=radical" width="700">
 
-    <img src="https://github-readme-stats.vercel.app/api?username=ShwetaM09&show_icons=true&hide=stars&theme=radical" width="700">
-
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishraCo&layout=compact&theme=radical" width="700">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishraCo&layout=compact&theme=radical" width="700">
   
 </p>
