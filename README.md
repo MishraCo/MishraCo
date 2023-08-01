@@ -31,10 +31,10 @@ I am a Machine Learning enthusiast currently pursuing a Master’s in Data Scien
 
 ### 📊 Github Stats
 <a href='https://github.com/MishraCo/MishraCo'>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ShwetaM09&show_icons=true&hide=stars&theme=radical" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=ShwetaM09&show_icons=true&hide=stars&theme=radical" />
 </a>
 <a href="https://github.com/MishraCo/MishraCo">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MishraCo&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MishraCo&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <br>
