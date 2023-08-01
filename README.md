@@ -6,11 +6,13 @@
 I am a Machine Learning enthusiast currently pursuing a Master’s in Data Science 🌐 at Northeastern University in Boston, MA💻. A few things that define me are curiosity, quick grasp of concepts, a drive for results through data🤖, and a passion for projects 🎨that I dedicate myself to, always seeking patterns 📱 and employing robust problem-solving skills for business use cases across various industries 🛠️.
 
 
-<img align="right" alt="GIF" src="techstack.gif" width="200px"/>
+<img align="right" alt="GIF" src="assets\Business Plan-cuate.svg" width="260px"/>
 
 <br>
+<br>
 
-<img align="right" alt="GIF" src="assets\Business Plan-cuate.svg" width="200"/>
+<img align="right" alt="GIF" src="techstack.gif" width="200px"/>
+
   
 ### 🧐 More About Me:
 
@@ -36,6 +38,6 @@ I am a Machine Learning enthusiast currently pursuing a Master’s in Data Scien
 
 ### 📊 Github Stats
 <a href='https://github.com/MishraCo/MishraCo'><img src="https://github-readme-stats.vercel.app/api?username=ShwetaM09&show_icons=true&hide=stars&theme=radical" height=200 width='400' align='center'/></a>
-<a href="https://github.com/MishraCo/MishraCo"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MishraCo&layout=compact&langs_count=8&card_width=320&layout=pie" height=200 width='300' align='center'/></a>
+<a href="https://github.com/MishraCo/MishraCo"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MishraCo&layout=compact&langs_count=8&card_width=320" height=200 width='300' align='center'/></a>
 
 <br>
