@@ -20,8 +20,6 @@ I am a Machine Learning enthusiast currently pursuing a Master’s in Data Scien
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Ts9_g3JmXdXylzkd97jYjyagxjUB2UTU/view)
 - 📚 &nbsp; When I am free, I read non-fiction and self-help books.
 
-<img align="right" alt="GIF" src="techstack.gif" width="240px"/>
-
 ### 🔨 Languages and Tools:
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="assets\python-svgrepo-com.svg"></a>
@@ -38,10 +36,10 @@ I am a Machine Learning enthusiast currently pursuing a Master’s in Data Scien
 
 <p align = "center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MishraCo&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats for Ritvi" width="700">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MishraCo&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats for Ritvi" width="700" length="360px">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShwetaM09&show_icons=true&hide=stars&theme=radical" width="700">
+<img src="https://github-readme-stats.vercel.app/api?username=ShwetaM09&show_icons=true&hide=stars&theme=radical" width="350">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishraCo&layout=compact&theme=radical" width="700">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishraCo&layout=compact&theme=radical" width="350">
   
 </p>
