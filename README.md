@@ -5,13 +5,7 @@
 
 I am a Machine Learning enthusiast currently pursuing a Master’s in Data Science 🌐 at Northeastern University in Boston, MA💻. A few things that define me are curiosity, quick grasp of concepts, a drive for results through data🤖, and a passion for projects 🎨that I dedicate myself to, always seeking patterns 📱 and employing robust problem-solving skills for business use cases across various industries 🛠️.
 
-
 <img align="right" alt="GIF" src="assets\Business Plan-cuate.svg" width="260px"/>
-
-<br>
-<br>
-
-<img align="right" alt="GIF" src="techstack.gif" width="200px"/>
 
   
 ### 🧐 More About Me:
@@ -20,6 +14,7 @@ I am a Machine Learning enthusiast currently pursuing a Master’s in Data Scien
 - 🤝 &nbsp; I’m looking to collaborate on interesting projects in the field of AI/ ML.
 - 🌱 &nbsp; I’m currently learning Full-Stack DataScience; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github1](https://github.com/MishraCo?tab=repositories) or [Github2](https://github.com/ShwetaM09?tab=repositories)
+<img align="right" alt="GIF" src="techstack.gif" width="260px"/>
 - 🎨 &nbsp; Using [this svg](assets\Business Plan-cuate.svg) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything Supply-Chain & Data related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/shwm/)
