@@ -33,7 +33,16 @@ I am a Machine Learning enthusiast currently pursuing a Master’s in Data Scien
 <br>
 
 ### 📊 Github Stats
-<a href='https://github.com/MishraCo/MishraCo'><img src="https://github-readme-stats.vercel.app/api?username=ShwetaM09&show_icons=true&hide=stars&theme=radical" height=200 width='400' align='center'/></a>
-<a href="https://github.com/MishraCo/MishraCo"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MishraCo&layout=compact&langs_count=8&card_width=320" height=200 width='300' align='center'/></a>
 
 <br>
+
+<p align = "center">
+
+
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MishraCo&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats for Ritvi" width="700">
+
+    <img src="https://github-readme-stats.vercel.app/api?username=ShwetaM09&show_icons=true&hide=stars&theme=radical" width="700">
+
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishraCo&layout=compact&theme=radical" width="700">
+  
+</p>
