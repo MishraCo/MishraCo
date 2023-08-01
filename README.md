@@ -39,7 +39,7 @@ I am a Machine Learning enthusiast currently pursuing a Master’s in Data Scien
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MishraCo&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats for Ritvi" width="800">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShwetaM09&show_icons=true&hide=stars&theme=radical" width="450">
+<img src="https://github-readme-stats.vercel.app/api?username=ShwetaM09&show_icons=true&hide=stars&theme=radical" width="450" length="400">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishraCo&layout=compact&theme=radical" width="350">
   
