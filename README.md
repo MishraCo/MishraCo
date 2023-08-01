@@ -6,9 +6,11 @@
 I am a Machine Learning enthusiast currently pursuing a Master’s in Data Science 🌐 at Northeastern University in Boston, MA💻. A few things that define me are curiosity, quick grasp of concepts, a drive for results through data🤖, and a passion for projects 🎨that I dedicate myself to, always seeking patterns 📱 and employing robust problem-solving skills for business use cases across various industries 🛠️.
 
 
-<img align="right" alt="GIF" src="techstack.gif" width="100px"/>
+<img align="right" alt="GIF" src="techstack.gif" width="200px"/>
 
-<img align="right" alt="GIF" src="assets\Business Plan-cuate.svg" width="100px"/>
+<br>
+
+<img align="right" alt="GIF" src="assets\Business Plan-cuate.svg" width="200"/>
   
 ### 🧐 More About Me:
 
