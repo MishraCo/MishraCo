@@ -43,3 +43,10 @@ I am a Machine Learning enthusiast currently pursuing a Master’s in Data Scien
 <a href="https://github.com/MishraCo/MishraCo">
   <img height=200 width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishraCo&layout=compact&theme=radical" />
 </a>
+
+[![An image of @mishraco's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mishraco)](https://holopin.io/@mishraco)
+
+
+
+
+
