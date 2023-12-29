@@ -2,6 +2,7 @@
 <a href='https://www.linkedin.com/in/shwm/'><img align='left' alt="linkedin" src="assets\linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/ShwetaM42355084'><img align='left' alt="twitter" src="assets\twitter.svg" height='18px'/></a>
 <a href='https://www.kaggle.com/shwetamishra9090'><img alt="kaggle" src="assets\kaggle.svg" height='18px'/></a>
+[![Buy Me a Book](https://img.shields.io/badge/Buy%20Me%20a%20Book-Donate-FFDD00.svg)](https://buymeacoffee.com/sui36)
 
 I am a Machine Learning enthusiast currently pursuing a Master’s in Data Science 🌐 at Northeastern University in Boston, MA💻. A few things that define me are curiosity, quick grasp of concepts, a drive for results through data🤖, and a passion for projects 🎨that I dedicate myself to, always seeking patterns 📱 and employing robust problem-solving skills for business use cases across various industries 🛠️.
 
@@ -45,5 +46,3 @@ I am a Machine Learning enthusiast currently pursuing a Master’s in Data Scien
 </a>
 
 [![An image of @mishraco's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mishraco)](https://holopin.io/@mishraco)
-
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="sui36" data-description="Support me on Buy me a coffee!" data-message="Thank You for visiting! A book in mind you would like me to read?" data-color="#BD5FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
