@@ -46,7 +46,4 @@ I am a Machine Learning enthusiast currently pursuing a Master’s in Data Scien
 
 [![An image of @mishraco's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mishraco)](https://holopin.io/@mishraco)
 
-
-
-
-
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="sui36" data-description="Support me on Buy me a coffee!" data-message="Thank You for visiting! A book in mind you would like me to read?" data-color="#BD5FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
