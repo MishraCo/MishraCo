@@ -4,7 +4,8 @@
 <a href='https://www.kaggle.com/shwetamishra9090'><img alt="kaggle" src="assets\kaggle.svg" height='18px'/></a>
 [![Buy Me a Book](https://img.shields.io/badge/Buy%20Me%20a%20Book-Donate-FFDD00.svg)](https://buymeacoffee.com/sui36)
 
-💻I am a Data Science & Machine Learning enthusiast currently working as a Data Scientist at Squark and a Master’s in Data Science from Northeastern University, Boston, MA. 🌐A few things that define me are curiosity to learn patterns, quick grasp of concepts, a drive for strategizing through analytical reults. 🤖
+💻I am a Data Science & Machine Learning enthusiast currently working as a Data Scientist at Squark and a Master’s in Data Science from Northeastern University, Boston, MA.
+🌐A few things that define me are curiosity to learn patterns, quick grasp of concepts, a drive for strategizing through analytical reults. 🤖
 🎨I am passionate about projects that solve real life problems while employing adcanced analytics & problem-solving skills for business growth. 🛠️
 
 <img align="right" alt="GIF" src="assets\Business Plan-cuate.svg" width="290px"/>
