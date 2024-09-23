@@ -4,15 +4,16 @@
 <a href='https://www.kaggle.com/shwetamishra9090'><img alt="kaggle" src="assets\kaggle.svg" height='18px'/></a>
 [![Buy Me a Book](https://img.shields.io/badge/Buy%20Me%20a%20Book-Donate-FFDD00.svg)](https://buymeacoffee.com/sui36)
 
-I am a Machine Learning enthusiast currently pursuing a Master’s in Data Science 🌐 at Northeastern University in Boston, MA💻. A few things that define me are curiosity, quick grasp of concepts, a drive for results through data🤖, and a passion for projects 🎨that I dedicate myself to, always seeking patterns 📱 and employing robust problem-solving skills for business use cases across various industries 🛠️.
+💻I am a Data Science & Machine Learning enthusiast currently working as a Data Scientist at Squark and a Master’s in Data Science from Northeastern University, Boston, MA. 🌐A few things that define me are curiosity to learn patterns, quick grasp of concepts, a drive for strategizing through analytical reults. 🤖
+🎨I am passionate about projects that solve real life problems while employing adcanced analytics & problem-solving skills for business growth. 🛠️
 
 <img align="right" alt="GIF" src="assets\Business Plan-cuate.svg" width="290px"/>
 
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently  working as a Data Scientist at Squark.
-- 🤝 &nbsp; I’m seeling a new job and looking to collaborate on interesting projects in AI/ ML.
+- 🔭 &nbsp; I’m currently  working as a Data Scientist at Squark, careating applications to solve Machine Learning tasks like forecasting & classification.
+- 🤝 &nbsp; I’m seeking for a new opportunity and looking to collaborate on state-of-art projects in AI/ ML.
 - 🌱 &nbsp; I’m currently implementing Full-Stack DataScience; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github1](https://github.com/MishraCo?tab=repositories) or [Github2](https://github.com/ShwetaM09?tab=repositories)
 - 🎨 &nbsp; Using [this svg](assets\Business Plan-cuate.svg) and Figma I made 👉
