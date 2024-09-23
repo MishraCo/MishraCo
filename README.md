@@ -8,7 +8,7 @@
 
 🌐A few things that define me are curiosity to learn patterns, quick grasp of concepts, a drive for strategizing through analytical reults. 🤖
 
-🎨I am passionate about projects that solve real life problems while employing adcanced analytics & problem-solving skills for business growth. 🛠️
+🎨I'm passionate about projects that solve real life problems while employing adcanced analytics & problem-solving skills for business growth. 🛠️
 
 <img align="right" alt="GIF" src="assets\Business Plan-cuate.svg" width="290px"/>
 
