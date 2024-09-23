@@ -1,4 +1,4 @@
-## Hey 👋, I'm Shweta Mishra!
+<h1 align="center">Hi there 👋, I'm Shweta Mishra!</h1>
 <a href='https://www.linkedin.com/in/shwm/'><img align='left' alt="linkedin" src="assets\linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/ShwetaM42355084'><img align='left' alt="twitter" src="assets\twitter.svg" height='18px'/></a>
 <a href='https://www.kaggle.com/shwetamishra9090'><img alt="kaggle" src="assets\kaggle.svg" height='18px'/></a>
