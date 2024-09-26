@@ -16,7 +16,7 @@
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently  working as a Data Scientist at Squark, careating applications to solve Machine Learning tasks like forecasting & classification.
+- 🔭 &nbsp; I’m currently  working as a Data Scientist at Squark, creating applications to solve Machine Learning tasks like forecasting & classification.
 - 🤝 &nbsp; I’m seeking for a new opportunity and looking to collaborate on state-of-art projects in AI/ ML.
 - 🌱 &nbsp; I’m currently implementing Full-Stack DataScience; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github1](https://github.com/MishraCo?tab=repositories) or [Github2](https://github.com/ShwetaM09?tab=repositories)
