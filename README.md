@@ -20,11 +20,10 @@
 - 🤝 &nbsp; I’m seeking for a new opportunity and looking to collaborate on state-of-art projects in AI/ ML.
 - 🌱 &nbsp; I’m currently implementing Full-Stack DataScience; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github1](https://github.com/MishraCo?tab=repositories) or [Github2](https://github.com/ShwetaM09?tab=repositories)
-- 🎨 &nbsp; Using [this svg](assets\Business Plan-cuate.svg) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything Supply-Chain & Data related, I am happy to help;
+- 💬 &nbsp; Ask me anything about EDA and ML Algorithms in Supply-Chain, Finance & Retail domains, and I am happy to help!
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/shwm/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1eF4YgBsEhX1DNq4z59e0aVQOlAC8SQQk/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read non-fiction and an advocate of hatha yoga.
+- 📚 &nbsp; When I am free, I  love reading non-fiction & Philosophy, and not to mention a huge advocate of hatha yoga.
 
 ### 🔨 Languages and Tools:
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
