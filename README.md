@@ -47,7 +47,7 @@
 
 ### 📊 Ways to Contact Me:
 
-<div style="display: flex; justify-content: center; gap: 20px; padding-bottom: 20px;">
+<div style="display: flex; justify-content: center; gap: 20px; width: 100%; position: absolute; bottom: 10px; left: 0; right: 0;">
   <a href='https://www.linkedin.com/in/shwm/'><img alt="linkedin" src="assets/linkedin.svg" height='18px'/></a>
   <a href='https://twitter.com/ShwetaM42355084'><img alt="twitter" src="assets/twitter.svg" height='18px'/></a>
   <a href='https://www.kaggle.com/shwetamishra9090'><img alt="kaggle" src="assets/kaggle.svg" height='18px'/></a>
