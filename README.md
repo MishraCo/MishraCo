@@ -1,12 +1,5 @@
 <h1 align="center">Hi there👋, I'm Shweta. Welcome to my GitHub Page!</h1>
 
-<a align="center" href='https://www.linkedin.com/in/shwm/'><img align="center" alt="linkedin" src="assets\linkedin.svg" height='18px'/></a>
-
-<a align="center" href='https://twitter.com/ShwetaM42355084'><img align="center" alt="twitter" src="assets\twitter.svg" height='18px'/></a>
-
-<a align="center" href='https://www.kaggle.com/shwetamishra9090'><img align="center" alt="kaggle" src="assets\kaggle.svg" height='18px'/></a>
-[![Buy Me a Book](https://img.shields.io/badge/Buy%20Me%20a%20Book-Donate-FFDD00.svg)](https://buymeacoffee.com/sui36)
-
 💻I am a Machine Learning Engineer currently working at Southwest Airlines. Bonus, I hold a Master’s in Data Science from Northeastern University, Boston, MA! Yes, I love mountains but settled in plains. 
 
 🌐A few things that inner circle knows, that I am curious about Science and Cosmos, hence grasp concepts quickly in my endeavor, and always have a strategy for solving problems. 🤖
@@ -51,3 +44,10 @@
 ### 📊 Shweta M's Badges:
 
 [![An image of @mishraco's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mishraco)](https://holopin.io/@mishraco)
+
+### 📊 Ways to Contact Me:
+
+<a align="center" href='https://www.linkedin.com/in/shwm/'><img align="center" alt="linkedin" src="assets\linkedin.svg" height='18px'/></a>
+<a align="center" href='https://twitter.com/ShwetaM42355084'><img align="center" alt="twitter" src="assets\twitter.svg" height='18px'/></a>
+<a align="center" href='https://www.kaggle.com/shwetamishra9090'><img align="center" alt="kaggle" src="assets\kaggle.svg" height='18px'/></a>
+[![Buy Me a Book](https://img.shields.io/badge/Buy%20Me%20a%20Book-Donate-FFDD00.svg)](https://buymeacoffee.com/sui36)
