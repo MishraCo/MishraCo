@@ -9,7 +9,7 @@
 
 🌐A few things that inner circle knows, that I am curious about Science and Cosmos, hence grasp concepts quickly in my endeavor, and always have a strategy for solving problems. 🤖
 
-🎨I'm passionate about projects that solve real life problems while employing adcanced ML Concepts for business growth. 🛠️
+🎨I'm passionate about projects that solve real life problems while employing advanced ML/AI Concepts for business growth and advancement of humanity. 🛠️
 
 <img align="right" alt="GIF" src="assets\Business Plan-cuate.svg" width="290px"/>
 
