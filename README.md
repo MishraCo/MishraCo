@@ -16,7 +16,7 @@
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently  working as a ML Engineer in SWA, previously was a Data Scientist at Squark, creating pipelines to solve Machine Learning tasks like forecasting, prediction, classification and quite recently leveraging Generative AI for solving problems with Business - Customer Communication.
-- 🤝 &nbsp; I’m always seeking for a new opportunity to collaborate on state-of-art projects or discussion in the evergrowing field of Artificial Intelligence.
+- 🤝 &nbsp; I’m always seeking for a new opportunity to collaborate on state-of-art project or discussion about the evergrowing field of Artificial Intelligence.
 - 🌱 &nbsp; I’m currently implementing Full-Stack DataScience using Cloud Infrastructure; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github1](https://github.com/MishraCo?tab=repositories) or [Github2](https://github.com/ShwetaM09?tab=repositories)
 - 💬 &nbsp; Ask me anything about Machine Learing & AI in Aviation, Supply-Chain, Finance & Retail domains, and I am happy dive into a deep conversation!
