@@ -17,12 +17,12 @@
 
 - 🔭 &nbsp; I’m currently  working as a ML Engineer in SWA, previously was a Data Scientist at Squark, creating pipelines to solve Machine Learning tasks like forecasting, prediction, classification and quite recently leveraging Generative AI for solving problems with Business - Customer Communication.
 - 🤝 &nbsp; I’m always seeking for a new opportunity to collaborate on state-of-art project or discussion about the evergrowing field of Artificial Intelligence.
-- 🌱 &nbsp; I’m currently implementing Full-Stack DataScience using Cloud Infrastructure; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github1](https://github.com/MishraCo?tab=repositories) or [Github2](https://github.com/ShwetaM09?tab=repositories)
-- 💬 &nbsp; Ask me anything about Machine Learing & AI in Aviation, Supply-Chain, Finance & Retail domains, and I am happy dive into a deep conversation!
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/shwm/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1eF4YgBsEhX1DNq4z59e0aVQOlAC8SQQk/view?usp=sharing)
-- 📚 &nbsp; When I am free, I  love reading non-fiction & Philosophy, and ofcourse an advocate of Yoga!
+- 🌱 &nbsp; I’m currently implementing Full-Stack Data Science using Cloud Infrastructure. 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github1](https://github.com/MishraCo?tab=repositories) or [Github2](https://github.com/ShwetaM09?tab=repositories).
+- 💬 &nbsp; Ask me anything about Machine Learing & AI in Aviation, Supply-Chain, Finance & Retail domains, and I am happy dive into a deep conversation! 
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/shwm/).
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1eF4YgBsEhX1DNq4z59e0aVQOlAC8SQQk/view?usp=sharing).
+- 📚 &nbsp; When I am free, I  love reading non-fiction & Philosophy, and ofcourse an advocate of Yoga.
 
 ### 🔨 Languages and Tools:
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
