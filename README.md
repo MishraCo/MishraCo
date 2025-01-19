@@ -38,14 +38,15 @@
 
 <br>
 
-<a href='https://github.com/MishraCo/MishraCo'>
-    <img height=200 width="750" align = "center" width="700" src= "https://github-readme-streak-stats.herokuapp.com/?user=MishraCo&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats for Ritvi" />
-</a>
 <a href="https://github.com/MishraCo/MishraCo">
   <img height=200 width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=MishraCo&show_icons=true&hide=stars&theme=radical" />
 </a>
 <a href="https://github.com/MishraCo/MishraCo">
   <img height=200 width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishraCo&layout=compact&theme=radical" />
+</a>
+
+<a href='https://github.com/MishraCo/MishraCo'>
+    <img height=200 width="750" align = "center" width="700" src= "https://github-readme-streak-stats.herokuapp.com/?user=MishraCo&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats for Shweta" />
 </a>
 
 [![An image of @mishraco's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mishraco)](https://holopin.io/@mishraco)
