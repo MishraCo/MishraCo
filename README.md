@@ -5,25 +5,24 @@
 <a align="center" href='https://www.kaggle.com/shwetamishra9090'><img align="center" alt="kaggle" src="assets\kaggle.svg" height='18px'/></a>
 [![Buy Me a Book](https://img.shields.io/badge/Buy%20Me%20a%20Book-Donate-FFDD00.svg)](https://buymeacoffee.com/sui36)
 
-💻I am a Data Science & Machine Learning enthusiast currently working as a Data Scientist at Squark and a Master’s in Data Science from Northeastern University, Boston, MA.
+💻I am a Machine Learning Engineer currently working at Southwest Airlines. Bonus, I hold a Master’s in Data Science from Northeastern University, Boston, MA! Yes, I love mountains but settled in plains. 
 
-🌐A few things that define me are curiosity to learn patterns, quick grasp of concepts, a drive for strategizing through analytical reults. 🤖
+🌐A few things that inner circle knows, that I am curious about Science and Cosmos, hence grasp concepts quickly in my endeavor, and always have a strategy for solving problems. 🤖
 
-🎨I'm passionate about projects that solve real life problems while employing adcanced analytics & problem-solving skills for business growth. 🛠️
+🎨I'm passionate about projects that solve real life problems while employing adcanced ML Concepts for business growth. 🛠️
 
 <img align="right" alt="GIF" src="assets\Business Plan-cuate.svg" width="290px"/>
 
-  
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently  working as a Data Scientist at Squark, creating applications to solve Machine Learning tasks like forecasting & classification.
-- 🤝 &nbsp; I’m seeking for a new opportunity and looking to collaborate on state-of-art projects in AI/ ML.
-- 🌱 &nbsp; I’m currently implementing Full-Stack DataScience; 
+- 🔭 &nbsp; I’m currently  working as a ML Engineer in SWA, previously was a Data Scientist at Squark, creating pipelines to solve Machine Learning tasks like forecasting & classification and recently leveraging Generative AI for business communication.
+- 🤝 &nbsp; I’m always seeking for a new opportunity to collaborate on state-of-art projects or discussion in the evergrowing field of Artificial Intelligence.
+- 🌱 &nbsp; I’m currently implementing Full-Stack DataScience using Cloud Infrastructure; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github1](https://github.com/MishraCo?tab=repositories) or [Github2](https://github.com/ShwetaM09?tab=repositories)
-- 💬 &nbsp; Ask me anything about EDA and ML Algorithms in Supply-Chain, Finance & Retail domains, and I am happy to help!
+- 💬 &nbsp; Ask me anything about Machine Learing & AI in Aviation, Supply-Chain, Finance & Retail domains, and I am happy dive into a deep conversation!
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/shwm/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1eF4YgBsEhX1DNq4z59e0aVQOlAC8SQQk/view?usp=sharing)
-- 📚 &nbsp; When I am free, I  love reading non-fiction & Philosophy, and not to mention a huge advocate of hatha yoga.
+- 📚 &nbsp; When I am free, I  love reading non-fiction & Philosophy, and ofcourse an advocate of Yoga!
 
 ### 🔨 Languages and Tools:
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
