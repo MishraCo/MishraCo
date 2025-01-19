@@ -36,8 +36,6 @@
 
 ### 📊 Github Stats:
 
-<br>
-
 <a href="https://github.com/MishraCo/MishraCo">
   <img height=200 width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=MishraCo&show_icons=true&hide=stars&theme=radical" />
 </a>
