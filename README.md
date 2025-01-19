@@ -47,7 +47,11 @@
 
 ### 📊 Ways to Contact Me:
 
-<a align="center" href='https://www.linkedin.com/in/shwm/'><img align="center" alt="linkedin" src="assets\linkedin.svg" height='18px'/></a>
-<a align="center" href='https://twitter.com/ShwetaM42355084'><img align="center" alt="twitter" src="assets\twitter.svg" height='18px'/></a>
-<a align="center" href='https://www.kaggle.com/shwetamishra9090'><img align="center" alt="kaggle" src="assets\kaggle.svg" height='18px'/></a>
+<div style="display: flex; justify-content: center; gap: 20px; padding-bottom: 20px;">
+  <a href='https://www.linkedin.com/in/shwm/'><img alt="linkedin" src="assets/linkedin.svg" height='18px'/></a>
+  <a href='https://twitter.com/ShwetaM42355084'><img alt="twitter" src="assets/twitter.svg" height='18px'/></a>
+  <a href='https://www.kaggle.com/shwetamishra9090'><img alt="kaggle" src="assets/kaggle.svg" height='18px'/></a>
+</div>
+
 [![Buy Me a Book](https://img.shields.io/badge/Buy%20Me%20a%20Book-Donate-FFDD00.svg)](https://buymeacoffee.com/sui36)
+
